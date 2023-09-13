@@ -3,6 +3,7 @@ I will not be including a precompiled firmware to upload as there are user varia
 Here's a brief on what you're looking at:
 
 1) WS2812B Digital or 12V Analog strips
+
     There are 3 zones: bumper1, bumper2, and ground. Ground is optional.
     At a bare minimum you must have front and back bumper red LED 12V analog strips for brake lights.
     Reallistically it doesn't cost much to get beautiful RGB control for the ground zone. Your control options are:
@@ -11,7 +12,9 @@ Here's a brief on what you're looking at:
         C) Static rainbow, or static colors. (digital or analog strips)
         D) Eventually there will be a "scan and collect" effect I will add, takes time. (digital strips)
         E) Eventually there will be a pulsing effect, takes time. (digital or analog strips)
+   
 3) LED strip headlights, "custom" LED headlights, or none
+
     If none, use custom and leave pins disconnected, but really, why? The ~1KWH battery I chose can run my 2 watt "custom" LED for ~21 days straight..
     If your battery isn't large enough consider a different battery size, I will eventually include CAD models for multiple sizes.
 
