@@ -1,7 +1,7 @@
 This is the schematic for the current iteration I have chosen.
 
 Conceptually the schematic isn't terribly complex.
-
+```
 Charge Port > Battery
                 v
           Anti Spark Switch > VESC > Hub Motor
@@ -15,5 +15,5 @@ Charge Port > Battery
  |    "Custom" LED Headlights  v
  |                             v
  >---------------------------->WS2812B LED strips (bumper1, bumper2, ground)
-
+```
 Eventually I will add more variants.
