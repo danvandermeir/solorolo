@@ -6,16 +6,14 @@ Here's a brief on what you're looking at:
    - There are 3 zones: bumper1, bumper2, and ground. Ground is optional.
    - At a bare minimum you must have front and back bumper red LED 12V analog strips for brake lights.
    - Reallistically it doesn't cost much to get beautiful RGB control for the ground zone. Your control options are:
-     * A) I've written a feature I haven't seen in the wild: RGB rainbow that chases the ground at the speed you roll. (digital strips)
-     * B) You can do rainbow colors that change with speed with analog RGB(W) strip as well as digital strip. (digital or analog strips)
-     * C) Static rainbow, or static colors. (digital or analog strips)
-     * D) Eventually there will be a "scan and collect" effect I will add, takes time. (digital strips)
-     * E) Eventually there will be a pulsing effect, takes time. (digital or analog strips)
-   
-3) LED strip headlights, "custom" LED headlights, or none
-
-    If none, use custom and leave pins disconnected, but really, why? The ~1KWH battery I chose can run my 2 watt "custom" LED for ~21 days straight..
-    If your battery isn't large enough consider a different battery size, I will eventually include CAD models for multiple sizes.
+     * A rainbow fround chasing effect that matches the speed you roll. I'm kinda proud of it, I haven't seen this otherwise in the wild. (digital strips)
+     * A rainbow color that change with speed with analog RGB(W) strip as well as digital strip. (digital or analog strips)
+     * Static rainbow, or static colors. (digital or analog strips)
+     * Eventually there will be a "scan and collect" effect I will add, takes time. (digital strips)
+     * Eventually there will be a pulsing effect, takes time. (digital or analog strips)
+2) LED strip headlights, "custom" LED headlights, or none
+   - If none, use custom and leave pins disconnected, but really, why? The ~1KWH battery I chose can run my 2 watt "custom" LED for ~21 days straight..
+   - If your battery isn't large enough consider a different battery size, I will eventually include CAD models for multiple sizes.
 
 At this time I have chosen to utilize an [Arduino Nano](https://store.arduino.cc/products/arduino-nano) to pull data from the [VESC](https://github.com/vedderb/bldc) over SPI and control LED lighting. I've chosen an acceptable generic Arduino Nano clone as availability at the time of purchase seemed to be low. I cannot vouch for personal purchasing choices, so YMMV.
 
