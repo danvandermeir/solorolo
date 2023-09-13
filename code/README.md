@@ -3,9 +3,9 @@ I will not be including a precompiled firmware to upload as there are user varia
 Here's a brief on what you're looking at:
 
 1) WS2812B Digital or 12V Analog strips
-     There are 3 zones: bumper1, bumper2, and ground. Ground is optional.
-     At a bare minimum you must have front and back bumper red LED 12V analog strips for brake lights.
-     Reallistically it doesn't cost much to get beautiful RGB control for the ground zone. Your control options are:
+  There are 3 zones: bumper1, bumper2, and ground. Ground is optional.
+  At a bare minimum you must have front and back bumper red LED 12V analog strips for brake lights.
+  Reallistically it doesn't cost much to get beautiful RGB control for the ground zone. Your control options are:
         A) I've written a feature I haven't seen in the wild: RGB rainbow that chases the ground at the speed you roll. (digital strips)
         B) You can do rainbow colors that change with speed with analog RGB(W) strip as well as digital strip. (digital or analog strips)
         C) Static rainbow, or static colors. (digital or analog strips)
