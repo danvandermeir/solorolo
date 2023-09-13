@@ -11,7 +11,7 @@ Here's a brief on what you're looking at:
         C) Static rainbow, or static colors. (digital or analog strips)
         D) Eventually there will be a "scan and collect" effect I will add, takes time. (digital strips)
         E) Eventually there will be a pulsing effect, takes time. (digital or analog strips)
-2) LED strip headlights, "custom" LED headlights, or none
+3) LED strip headlights, "custom" LED headlights, or none
     If none, use custom and leave pins disconnected, but really, why? The ~1KWH battery I chose can run my 2 watt "custom" LED for ~21 days straight..
     If your battery isn't large enough consider a different battery size, I will eventually include CAD models for multiple sizes.
 
