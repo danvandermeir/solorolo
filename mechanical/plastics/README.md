@@ -1,1 +1,1 @@
-Named collections of parts files for 3D printing or PIM.
+Creator named collections of parts files for 3D printing or PIM.  
