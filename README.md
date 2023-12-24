@@ -4,7 +4,7 @@ This is a FOS(S) set of code and CAD files to assist in creating a single hub mo
   
 That being said, riding around on this thing has been amazing and it has been a great time putting it together. Thanks for the interest. :)  
   
-TL;DR for original SoloRolo:  
+TL;DR for `original` SoloRolo:  
 1. download+print w/ or w/o headlights [these](mechanical/plastics/)  
 2. order [these](BOMs/original/)  
 3. check+cut [these](mechanical/metals/original/)  
