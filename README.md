@@ -12,7 +12,7 @@ TL;DR for `original` SoloRolo:
 5. download+print [these](mechanical/plastics/)  
 6. order [these](BOMs/original/)  
 7. check+cut [these](mechanical/metals/original/)  
-8. assemble *everything*  
+8. assemble *everything* using [this](electrical/original/) and [this](finished/original/)  
 9. program [ESC](code/ESCs/original/) and [Arduino](code/controllers/original/)  
 10. button up and roll  
   
@@ -23,9 +23,9 @@ TL;DR for `original` SoloRolo:
 4. Start assembling your electronics. Take your time, and do a good job.
 5. Read about and order/cut your [metals](mechanical/metals/). Check for a subsection for your chosen named collection (or use `original`), and start cutting.
 6. Now that you have a metal frame to more reasonably mount and attach the hub motor and ESC parts to read about and program your [ESC](electronics/ESCs/). These can be expensive and should be the first thing to verify. Any differing files from the VESC based FESC will be under it's respective subsection.
-7. LEDs! And... everything else. You'll need to wait for your electronics plate print. Run all your wires through your frames, stick all your LEDs on the frame that are going there, and mount your electronics to your electronics plate. This will allow easier access to everything as it's all coming together now! :D Absolutely consult the [electronics schematic](electronics/schematics/) for your named collection (or `original`).
+7. LEDs! And... everything else. You'll need to wait for your electronics plate print. Run all your wires through your frames, stick all your LEDs on the frame that are going there, and mount your electronics to your electronics plate. This will allow easier access to everything as it's all coming together now! :D Absolutely consult the [electronics schematic](electronics/) for your named collection (or `original`).
 8. Program your Arduino, lighting controller, or whatever your named collection specifies and test the lights. Usually you can test by mounting your frame to a milk carton and tilting it while applying pressure to to the resistive sensors to verify proper power connections, communication between the lighting controller and the ESC, and proper power and/or data between the lighting controller and the LEDs and or strips.
-9. When all your prints are in, assemble all the things! Fasten your cavities to your frame after fishing your wires through during assembly, install all your external interfaces (charge inlet, power button, LEDs and/or strips, screens, readouts, etc), connect all the loose power and data wires according to the [electronics schematic](electronics/schematics/) for your named collection (or `original`), fasten your footpads to your cavities, and install any caps or friction coatings (skateboard tape).
+9. When all your prints are in, assemble all the things! Fasten your cavities to your frame after fishing your wires through during assembly, install all your external interfaces (charge inlet, power button, LEDs and/or strips, screens, readouts, etc), connect all the loose power and data wires according to the [electronics schematic](electronics/) for your named collection (or `original`), fasten your footpads to your cavities, and install any caps or friction coatings (skateboard tape).
 10. Test all your functions using your milk crate mount or whatever you've devised, and take 'er out on a catious maiden voyage! Roll! You're probably done! :D  
 
 ## The `solorolo_` * `_` * `-`* files subsections, and notes:  
