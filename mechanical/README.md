@@ -6,6 +6,8 @@ Absolutely consider using stronger, weather resistant, and more heat resistant p
 
 I used an Elegoo Neptune 3 Max in a "weather sealed" closed, Octoprint on a RPi4B, and around 6 1 kilogram spools of 1.75 millimeter Overture transparent PETG. All prints that I performed were printed at 100% infill with 10 top, bottom, and vertical perimeter layers. My first layer was single layer height (0.3 millimeter). The footpads were printed at 0.1 millimeter layer height with the rest being printed at 0.3 millimeter layer height.
 
+The cavities with these settings took loosely 4 and 4.5 days of continous printing. The footpads took 3.5 and 4 days. Perhaps consider starting your prints first?
+
 ## The `solorolo_` * `_` * `-`* files may come in several variants:  
 ***The first wildcard represents the design name of the parts collection.***  
 I designed and uploaded `original`. If I don't like a design change to my orignal designs you can make your own (even if you want to start with mine as a base!) and contribute it here under a new directory.
