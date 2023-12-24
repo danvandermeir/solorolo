@@ -6,7 +6,7 @@ Absolutely consider using stronger, weather resistant, and more heat resistant p
 
 I used an Elegoo Neptune 3 Max in a "weather sealed" closed, Octoprint on a RPi4B, and around 6 1 kilogram spools of 1.75 millimeterOverture transparent PETG. All prints that I performed were printed at 100% infill with 10 top, bottom, and vertical perimeter layers. My first layer was single layer height (0.3 millimeter). The footpads were printed at 0.1 millimeter layer height with the rest being printed at 0.3 millimeter layer height.
 
-### The `solorolo_` * `-` * `_`* files may come in several variants:  
+### The `solorolo_` * `_` * `-`* files may come in several variants:  
 ***The first wildcard represents the design name of the parts collection.***  
 I designed and uploaded `original`. If I don't like a design change to my orignal designs you can make your own (even if you want to start with mine as a base!) and contribute it here under a new directory.
 
@@ -20,4 +20,4 @@ Consider how far and/or long you'll be riding if you limit yourself to what isA
 [^-]The length of the `max` size battery will limit the terrain and/or incline you are trying to travel. Do you have any steep streets you're looking to roll on?
         For me there are many steep paved and unpaved paths I take, but even so I can often find a another way up.
 
-***The third wildecard represents the name of the part in the size collection.***  
+***The third and final wildcard represents the name of the part in the size collection.***  
