@@ -27,7 +27,7 @@ While having a large battery can be a benefit there are a few drawbacks such as 
 - The weight of the `max` size battery SoloRolo is ~37 pounds (~16.75 kilograms). Is it worth lugging this around?  
 <sub>It is for me... I live in a relatively remote area, this is great for exploring where I am not likely to use my SoloRolo for bunny hoping between many indoor locations where I may be able to charge.</sub>
   
-- With the `max` size battery at maybe 60 miles (90 kilometers) capacity per charge combined with loosely what is considered a reasonable safe top speed of 18 m/h (~30km/h) you could potentially be riding for 3 hours and 20 minutes! Will you come close to using this capacity?  
+- With the `max` size battery at maybe 60 miles (90 kilometers) capacity per charge combined with loosely what is considered a reasonable safe top speed of 18 m/h (~30 km/h) you could potentially be riding for 3 hours and 20 minutes! Will you come close to using this capacity?  
 <sub>While rolling is an excellent time, that is a decently long duration that you may never approach with chargers at your stops. Again, I live in a relatively remote area.</sub>
   
 - The length of the `max` size battery will limit the terrain and/or incline you are trying to travel. Do you have any steep streets you're looking to roll on?  
