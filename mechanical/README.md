@@ -4,7 +4,7 @@ I tried following design rules that reduce required support material for 3D prin
 
 Absolutely consider using stronger, weather resistant, and more heat resistant plastics for this project. PETG can generally withstand higher weights, sudden shock, and is more heat resistant than most PLA. 3D printing plastics can be complex. YMMV Don't strand yourself due to a structural issue on a roll.
 
-I used an Elegoo Neptune 3 Max in a "weather sealed" closed, Octoprint on a RPi4B, and around 6 1 kilogram spools of 1.75 millimeterOverture transparent PETG. All prints that I performed were printed at 100% infill with 10 top, bottom, and vertical perimeter layers. My first layer was single layer height (0.3 millimeter). The footpads were printed at 0.1 millimeter layer height with the rest being printed at 0.3 millimeter layer height.
+I used an Elegoo Neptune 3 Max in a "weather sealed" closed, Octoprint on a RPi4B, and around 6 1 kilogram spools of 1.75 millimeter Overture transparent PETG. All prints that I performed were printed at 100% infill with 10 top, bottom, and vertical perimeter layers. My first layer was single layer height (0.3 millimeter). The footpads were printed at 0.1 millimeter layer height with the rest being printed at 0.3 millimeter layer height.
 
 ## The `solorolo_` * `_` * `-`* files may come in several variants:  
 ***The first wildcard represents the design name of the parts collection.***  
