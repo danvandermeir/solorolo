@@ -1,4 +1,4 @@
-# solorolo
+# SoloRolo
   
 This is a FOS(S) set of code and CAD files to assist in creating a single hub motor self balancing skateboard. As I said, this is provided for free. I take no responsibility for whatever may happen with creation of devices from these files. You are (at) your own risk. Please don't ask me about named collection specifics, but instead speak with the contributer for it.  
   
