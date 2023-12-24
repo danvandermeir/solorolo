@@ -31,7 +31,7 @@ While having a large battery can be a benefit there are a few drawbacks such as 
 <sub>While rolling is an excellent time, that is a decently long duration that you may never approach with chargers at your stops. Again, I live in a relatively remote area.</sub>
   
 - The length of the `max` size battery will limit the terrain and/or incline you are trying to travel. Do you have any steep streets you're looking to roll on?  
-<sub>For me there are many steep paved and unpaved paths I take, but even so I can often find a another way up.</sub>
+<sub>For me there are many steep paved and unpaved paths I take, but even so I can often find a another way up/down.</sub>
   
   
 ***The third and final wildcard represents the name of the part in the size and collection.***  
