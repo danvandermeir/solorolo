@@ -6,18 +6,20 @@ Absolutely consider using stronger, weather resistant, and more heat resistant p
 
 I used an Elegoo Neptune 3 Max in a "weather sealed" closed, Octoprint on a RPi4B, and around 6 1 kilogram spools of 1.75 millimeterOverture transparent PETG. All prints that I performed were printed at 100% infill with 10 top, bottom, and vertical perimeter layers. My first layer was single layer height (0.3 millimeter). The footpads were printed at 0.1 millimeter layer height with the rest being printed at 0.3 millimeter layer height.
 
-### The `solorolo_` * `_` * `-`* files may come in several variants:  
+## The `solorolo_` * `_` * `-`* files may come in several variants:  
 ***The first wildcard represents the design name of the parts collection.***  
 I designed and uploaded `original`. If I don't like a design change to my orignal designs you can make your own (even if you want to start with mine as a base!) and contribute it here under a new directory.
 
 ***The second wildcard represents a battery size.***  
-While having a large battery can be a benefit there are a few drawbacks such as weight, length, and usable capacity. The `max` size battery is 48 volts with a ? Amp hour (~960 Watt hour) rating yielding loosely 50-60 miles (85-90 kilometers) per full charge.
-Consider how far and/or long you'll be riding if you limit yourself to what isA
-[^-]The weight of the `max` size battery SoloRolo is ~37 pounds (~16.75 kilograms). Is it worth lugging this around?
-        It is for me... I live in a relatively remote area, this is great for exploring where I am not likely to use my SoloRolo for bunny hoping between many indoor locations where I may be able to charge.
-[^-]With the `max` size battery at maybe 60 miles (90 kilometer) capacity per charge combined with loosely what is considered a reasonable safe top speed of 18 m/h (~30km/h) means you could potentially be riding for 3 hours and 20 minutes! Will you even come close to using half this capacity?
-        While rolling is an excellent time, that is a decently long duration that you may never approach with chargers in between stops. Again, I live in a relatively remote area.
-[^-]The length of the `max` size battery will limit the terrain and/or incline you are trying to travel. Do you have any steep streets you're looking to roll on?
-        For me there are many steep paved and unpaved paths I take, but even so I can often find a another way up.
-
-***The third and final wildcard represents the name of the part in the size collection.***  
+While having a large battery can be a benefit there are a few drawbacks such as weight, length, and usable capacity. The `max` size battery is 48 volts with a ? Amp hour (~960 Watt hour) rating yielding loosely 50-60 miles (85-90 kilometers) per full charge.  
+- The weight of the `max` size battery SoloRolo is ~37 pounds (~16.75 kilograms). Is it worth lugging this around?  
+<sub>It is for me... I live in a relatively remote area, this is great for exploring where I am not likely to use my SoloRolo for bunny hoping between many indoor locations where I may be able to charge.</sub>
+  
+- With the `max` size battery at maybe 60 miles (90 kilometers) capacity per charge combined with loosely what is considered a reasonable safe top speed of 18 m/h (~30km/h) you could potentially be riding for 3 hours and 20 minutes! Will you come close to using this capacity?  
+<sub>While rolling is an excellent time, that is a decently long duration that you may never approach with chargers at your stops. Again, I live in a relatively remote area.</sub>
+  
+- The length of the `max` size battery will limit the terrain and/or incline you are trying to travel. Do you have any steep streets you're looking to roll on?  
+<sub>For me there are many steep paved and unpaved paths I take, but even so I can often find a another way up.</sub>
+  
+  
+***The third and final wildcard represents the name of the part in the size and collection.***  
