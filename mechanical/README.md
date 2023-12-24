@@ -8,7 +8,7 @@ I used an Elegoo Neptune 3 Max in a "weather sealed" closed, Octoprint on a RPi4
 
 The cavities with these settings took loosely 4 and 4.5 days of continous printing. The footpads took 3.5 and 4 days. Perhaps consider starting your prints first?
 
-## The `solorolo_` * `_` * `-`* files may come in several variants:  
+## The `solorolo_` * `_` * `-`* files subsections, and notes:  
 ***The first wildcard represents the design name of the parts collection.***  
 I designed and uploaded `original`. If I don't like a design change to my orignal designs you can make your own (even if you want to start with mine as a base!) and contribute it here under a new directory.
 
