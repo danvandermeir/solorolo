@@ -8,7 +8,7 @@ I used an Elegoo Neptune 3 Max in a "weather sealed" closed, Octoprint on a RPi4
 
 ### The `solorolo_` * `-` * `_`* files may come in several variants:  
 ***The first wildcard represents the design name of the parts collection.***  
-I designed and uploaded `original`. If I don't like a design change to my orignal designs you can make your own (even if you want to start with mine as a base!) and contribute it here under a new directory begining with `solorolo-`.
+I designed and uploaded `original`. If I don't like a design change to my orignal designs you can make your own (even if you want to start with mine as a base!) and contribute it here under a new directory.
 
 ***The second wildcard represents a battery size.***  
 While having a large battery can be a benefit there are a few drawbacks such as weight, length, and usable capacity. The `max` size battery is 48 volts with a ? Amp hour (~960 Watt hour) rating yielding loosely 50-60 miles (85-90 kilometers) per full charge.
