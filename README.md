@@ -5,12 +5,16 @@ This is a FOS(S) set of code and CAD files to assist in creating a single hub mo
 That being said, riding around on this thing has been amazing and it has been a great time putting it together. Thanks for the interest. :)  
   
 TL;DR for `original` SoloRolo:  
-1. download+print w/ or w/o headlights [these](mechanical/plastics/)  
-2. order [these](BOMs/original/)  
-3. check+cut [these](mechanical/metals/original/)  
-4. assemble *everything*  
-5. program [ESC](code/ESCs/original/) and [Arduino](code/controllers/original/)  
-7. button up and roll  
+1. choose a battery size using notes at the bottom of this README  
+2. choose if you want nice LED headlights (does not effect battery life worth talking about)
+3. choose if you want underglow (RGB, can chase ground with rainbow)
+4. choose LED strip types (individually addressable [RGB], RGB "analog")
+5. download+print [these](mechanical/plastics/)  
+6. order [these](BOMs/original/)  
+7. check+cut [these](mechanical/metals/original/)  
+8. assemble *everything*  
+9. program [ESC](code/ESCs/original/) and [Arduino](code/controllers/original/)  
+10. button up and roll  
   
 **In specific my recommend for creation of a SoloRolo is loosely this order, and it should be inferred that if a named collection does not have an entry in any subsection that `orignal` is to be used:**
 1. Take note of the structure of files here so you know you're getting everything you need. It's actually easier done than said.
